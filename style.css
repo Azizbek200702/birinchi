@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.wrapper{
+    text-align: center;
+}
+
+.card{
+    border: 1px solid black;
+    width: 400px;
+    height: 450px;
+    padding: 10px;
+    margin: 0 auto;
+    margin-top: 90px;
+}
+
+.card img{
+    width: 100%;
+}
