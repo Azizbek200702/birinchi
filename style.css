@@ -15,8 +15,11 @@ body{
     padding: 10px;
     margin: 0 auto;
     margin-top: 90px;
+    border-radius: 5px;
+    box-shadow: 0  5px 20px;
 }
 
 .card img{
     width: 100%;
+    border-radius: 10px;
 }
